@@ -3,12 +3,12 @@
 </div>  
   
 
-<h1 align="center">Hi, I'm Kuzmin Nikita</h1>
-<h3 align="center">Junior System and Backend developer</h3>
+<h1 align="center">Hi, I'm anton nikita</h1>
+<h3 align="center">Junior POrno actor and Backend developer</h3>
 
 - ?? I’m currently working on [EGE](https://github.com/kusakabeka/ege)
 
-- ?? I’m currently learning **Rust and Haskell**
+- ?? I’m currently learning **java and java**
 
 - ??In addition, **I am interested in information security, pentest and mathematics**
 
