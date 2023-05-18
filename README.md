@@ -14,5 +14,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="java.com" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180519/tqa/kisspng-java-development-kit-operating-systems-android-mac-5b007912159776.9746473115267576500885.jpg" alt="" height="30" width="40" /></a>
+<a href="https://www.java.com/" target="blank"><img align="center" src="https://emiter.com.mk/sites/default/files/sliki/napis/1_emiter_java-square.png" alt="" height="30" width="40" /></a>
 
