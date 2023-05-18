@@ -16,5 +16,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="30" width="40" /></a>
+<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="30" width="40" /></a> <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/941/480/png-transparent-postgresql-relational-database-management-system-software-logo-head-vector-logo.png" alt="" height="30" width="40" /></a> 
 
