@@ -14,5 +14,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.java.com/" target="blank"><img align="center" src="https://emiter.com.mk/sites/default/files/sliki/napis/1_emiter_java-square.png" alt="" height="30" width="40" /></a>
+<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="30" width="40" /></a>
 
