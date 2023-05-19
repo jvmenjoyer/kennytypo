@@ -17,4 +17,5 @@
 
 
 <a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="30" width="40" /></a>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusakabeka&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
