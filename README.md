@@ -16,6 +16,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="30" width="40" /></a>  
+<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="30" width="40" /></a> <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://w1.pngwing.com/pngs/874/1023/png-transparent-leaf-apache-maven-software-build-apache-software-foundation-java-servlet-client-computer-software-hibernate.png" alt="" height="30" width="40" /></a>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytypo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
