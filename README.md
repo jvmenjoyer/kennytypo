@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="40" width="40" /></a> <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://ih1.redbubble.net/image.791424425.2396/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="" height="40" width="40" /></a>
+<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="40" width="40" /></a> <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://editorconfig.org/logos/maven.png" alt="" height="40" width="40" /></a>
 
 
 
