@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="40" width="40" /></a> <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://editorconfig.org/logos/maven.png" alt="" height="40" width="40" /></a> <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" alt="" height="40" width="40" /></a>
+<a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="40" width="40" /></a> <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://editorconfig.org/logos/maven.png" alt="" height="40" width="40" /></a> <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="" height="40" width="40" /></a>
 
 
 
