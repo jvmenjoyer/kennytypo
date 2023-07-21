@@ -19,7 +19,7 @@
 <a href="https://www.java.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="" height="40" width="40" /></a> <a href="https://maven.apache.org/" target="blank"><img align="center" src="https://editorconfig.org/logos/maven.png" alt="" height="40" width="40" /></a> <a href="https://www.postgresql.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="" height="40" width="40" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennytypo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
