@@ -6,7 +6,8 @@
 <h1 align="center">Hi, I'm Anton Gurovskii</h1>
 <h3 align="center">Junior Java developer</h3>
 
-- I’m currently learning Java
+- I’m currently learning Spring Boot
+- I'm interesting in back-end development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
